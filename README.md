@@ -3,7 +3,7 @@
 Práctica de 18 Ejercicios para el Training C3 de Sofka-U
 
 Proyecto realizado en IntelliJ Idea Ultimate, utilizando:
-+ Java Maven
++ Java Maven -JDK 17
 
 ## Instrucciones para ejecutar el programa
 
@@ -14,6 +14,13 @@ Proyecto realizado en IntelliJ Idea Ultimate, utilizando:
 > Run 'Main'
 
 3. Siga las instrucciones en consola para ejecutar los ejercicios.
+
+### Link de videos de los ejercicios solicitados
+
++ Ejercicio 16 - https://youtu.be/8faQikr6m9g
++ Ejercicio 17 - https://youtu.be/SL8oyb25bow
++ Ejercicio 18 - https://youtu.be/e7mrhUO--lA
+
 
 ## Desarrollador
 + Ricardo Ortega - tattortega.28@gmail.com
